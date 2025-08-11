@@ -1,0 +1,21 @@
+{
+  "start_time": "2025-08-11T00:44:40.369676",
+  "layers": [
+    {
+      "layer": 0,
+      "status": "success",
+      "quantization_time": 0.07820844650268555,
+      "timestamp": "2025-08-11T00:44:40.473119"
+    }
+  ],
+  "summary": {
+    "total_layers": 1,
+    "successful_layers": 1,
+    "failed_layers": 0,
+    "total_quantization_time": 0.07820844650268555,
+    "avg_quantization_time": 0.07820844650268555,
+    "min_quantization_time": 0.07820844650268555,
+    "max_quantization_time": 0.07820844650268555
+  },
+  "end_time": "2025-08-11T00:44:40.473244"
+}

@@ -806,3 +806,5 @@ wandb/
 timings/
 output_finetune/
 env_log.json
+
+Llama-3-8B-FP8/

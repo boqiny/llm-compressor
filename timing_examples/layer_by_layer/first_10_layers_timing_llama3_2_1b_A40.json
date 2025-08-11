@@ -1,0 +1,75 @@
+{
+  "start_time": "2025-08-11T01:13:42.517561",
+  "layers": [
+    {
+      "layer": 0,
+      "status": "success",
+      "quantization_time": 0.08232402801513672,
+      "timestamp": "2025-08-11T01:13:42.626364"
+    },
+    {
+      "layer": 1,
+      "status": "success",
+      "quantization_time": 0.0028901100158691406,
+      "timestamp": "2025-08-11T01:13:42.629493"
+    },
+    {
+      "layer": 2,
+      "status": "success",
+      "quantization_time": 0.0028734207153320312,
+      "timestamp": "2025-08-11T01:13:42.632515"
+    },
+    {
+      "layer": 3,
+      "status": "success",
+      "quantization_time": 0.0028564929962158203,
+      "timestamp": "2025-08-11T01:13:42.635509"
+    },
+    {
+      "layer": 4,
+      "status": "success",
+      "quantization_time": 0.002798795700073242,
+      "timestamp": "2025-08-11T01:13:42.638445"
+    },
+    {
+      "layer": 5,
+      "status": "success",
+      "quantization_time": 0.0027954578399658203,
+      "timestamp": "2025-08-11T01:13:42.641369"
+    },
+    {
+      "layer": 6,
+      "status": "success",
+      "quantization_time": 0.0027709007263183594,
+      "timestamp": "2025-08-11T01:13:42.644283"
+    },
+    {
+      "layer": 7,
+      "status": "success",
+      "quantization_time": 0.002790212631225586,
+      "timestamp": "2025-08-11T01:13:42.647207"
+    },
+    {
+      "layer": 8,
+      "status": "success",
+      "quantization_time": 0.002910614013671875,
+      "timestamp": "2025-08-11T01:13:42.650249"
+    },
+    {
+      "layer": 9,
+      "status": "success",
+      "quantization_time": 0.002795696258544922,
+      "timestamp": "2025-08-11T01:13:42.653183"
+    }
+  ],
+  "summary": {
+    "total_layers": 10,
+    "successful_layers": 10,
+    "failed_layers": 0,
+    "total_quantization_time": 0.10780572891235352,
+    "avg_quantization_time": 0.010780572891235352,
+    "min_quantization_time": 0.0027709007263183594,
+    "max_quantization_time": 0.08232402801513672
+  },
+  "end_time": "2025-08-11T01:13:42.653309"
+}

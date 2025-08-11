@@ -1,0 +1,75 @@
+{
+  "start_time": "2025-08-11T01:12:30.170227",
+  "layers": [
+    {
+      "layer": 0,
+      "status": "success",
+      "quantization_time": 1.1435229778289795,
+      "timestamp": "2025-08-11T01:12:31.329109"
+    },
+    {
+      "layer": 1,
+      "status": "success",
+      "quantization_time": 1.4935503005981445,
+      "timestamp": "2025-08-11T01:12:32.822929"
+    },
+    {
+      "layer": 2,
+      "status": "success",
+      "quantization_time": 1.400740623474121,
+      "timestamp": "2025-08-11T01:12:34.223877"
+    },
+    {
+      "layer": 3,
+      "status": "success",
+      "quantization_time": 1.4027481079101562,
+      "timestamp": "2025-08-11T01:12:35.626866"
+    },
+    {
+      "layer": 4,
+      "status": "success",
+      "quantization_time": 1.295997142791748,
+      "timestamp": "2025-08-11T01:12:36.923454"
+    },
+    {
+      "layer": 5,
+      "status": "success",
+      "quantization_time": 1.3983314037322998,
+      "timestamp": "2025-08-11T01:12:38.322854"
+    },
+    {
+      "layer": 6,
+      "status": "success",
+      "quantization_time": 1.2999203205108643,
+      "timestamp": "2025-08-11T01:12:39.623144"
+    },
+    {
+      "layer": 7,
+      "status": "success",
+      "quantization_time": 1.3054485321044922,
+      "timestamp": "2025-08-11T01:12:40.929133"
+    },
+    {
+      "layer": 8,
+      "status": "success",
+      "quantization_time": 1.3979582786560059,
+      "timestamp": "2025-08-11T01:12:42.327552"
+    },
+    {
+      "layer": 9,
+      "status": "success",
+      "quantization_time": 1.3958916664123535,
+      "timestamp": "2025-08-11T01:12:43.723809"
+    }
+  ],
+  "summary": {
+    "total_layers": 10,
+    "successful_layers": 10,
+    "failed_layers": 0,
+    "total_quantization_time": 13.534109354019165,
+    "avg_quantization_time": 1.3534109354019166,
+    "min_quantization_time": 1.1435229778289795,
+    "max_quantization_time": 1.4935503005981445
+  },
+  "end_time": "2025-08-11T01:12:43.724115"
+}
